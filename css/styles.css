@@ -61,12 +61,15 @@ p {
 /* Buttons */
 .download-button {
   margin: 5% 3% 5% 0;
+}
+
+.apple {
   border: solid 2px;
 }
 
-
 .google {
   color: green;
+  border: solid 2px;
 }
 
 /* Title Section */
